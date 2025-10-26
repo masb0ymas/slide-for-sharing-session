@@ -156,6 +156,17 @@ Kenapa ada tagline tersebut?
 
 Karena semakin sering kita membuat konten di LinkedIn, maka akan semakin sering kita ditemukan oleh perusahaan-perusahaan yang sedang mencari karyawan. Apalagi kalo konten yang dibikin menarik dan informatif.
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
 
 ---
 transition: slide-left
@@ -175,6 +186,18 @@ Bangun lah portfoliomu dari project open-source terlebih dahulu. Kamu bisa cerit
 
 Di era serba AI ini harusnya kita jauh lebih produktif dalam hal membangun sebuah website/aplikasi/library. Tapi perlu diingat bahwa _Fundamental_ tetap harus ada. Jadikan AI itu assistent mu yang membantu pekerjaanmu, bukan dirimu yang tergantung pada AI.
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
 ---
 transition: slide-left
 ---
@@ -188,6 +211,18 @@ Dari yang saya jelaskan barusan kita sudah mendapatkan beberapa key highlight ya
 3. GitHub (project open-source)
 
 Sharing session ini cocok utk teman-teman yang sedang kuliah atau sedang mencari pekerjaan. Gimana kita akan diterima kerja sedangkan kita belum ada pengalaman dibidang tersebut. Manfaatkan waktu luang untuk membangun portofoliomu, lewat project open-source.
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
 
 ---
 transition: fade-out
@@ -205,6 +240,18 @@ Jika teman-teman sudah siap untuk bekerja di perusahaan, maka teman-teman harus 
 
 Sebelumnya kita fokus dalam membangun portfolio, ini jadi pertimbangan ketika interview. Apa yang sudah kita bikin, masalah apa yang sudah kita selesaikan, dan achievement apa yang sudah didapat setelah mengerjakan project tersebut.
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
 ---
 layout: iframe-right
 
@@ -219,6 +266,17 @@ Kita tidak perlu membuat Resume yang warna-warni, cukup seperti ini, dan ATS fri
 
 Oh ya, pendidikan tidak begitu penting jika kamu ingin bekerja di perusahaan US. Yang terpenting adalah skill dan komunikasi yang baik.
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
 
 ---
 layout: iframe-right
@@ -234,6 +292,18 @@ Jujur saya belum pernah mengikuti latihan interview bersama mas Andi, tetapi say
 
 Saya bisa merekomendasikan teman-teman bagaimana cara interview yang proper dan professional.
 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
 ---
 layout: center
 class: text-center
@@ -244,3 +314,15 @@ class: text-center
 [LinkedIn](https://www.linkedin.com/in/masb0ymas/) · [GitHub](https://github.com/masb0ymas) · [Portfolio](https://masb0ymas.com)
 
 <PoweredBySlidev mt-10 />
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
