@@ -119,7 +119,7 @@ image: https://fekon.upiyptk.ac.id/wp-content/uploads/2024/01/gedung-kuliah-1.jp
 
 Alumni dari kampus **_UPI YPTK Padang_**
 
-Pengalaman apa saja yang pernah saya alami?
+Pengalaman apa saja yang pernah saya lalui?
 <v-click>
 
 - Mencoba mencari pekerjaan lewat jobfair
@@ -163,6 +163,31 @@ h1 {
 </style>
 
 ---
+layout: center
+class: text-center
+---
+
+# Apa saja sih yang membuat saya bisa bekerja di perusahaan US dan Australia?
+
+<v-click>
+
+Mari kita bahas 1/1 tips yang bisa memperbesar peluangmu untuk bekerja di perusahaan US dan Australia.
+
+</v-click>
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
 transition: fade-out
 layout: two-cols
 layoutClass: gap-10
@@ -179,7 +204,9 @@ Relasi itu lebih berharga dari sekedar uang.
 
 <v-click>
 
-Dari awal karir saya hingga saat ini, bisa dibilang semua dari koneksi yang saya miliki. Saya bersyukur atas semua yang pernah saya lewati, hingga kini saya bisa bekerja di perusahaan US dan Australia. 
+Dari awal karir saya hingga saat ini, bisa dibilang semua dari koneksi yang saya miliki. 
+
+Saya bersyukur atas semua yang pernah saya lewati, hingga kini saya bisa bekerja di perusahaan US dan Australia. 
 
 </v-click>
 
@@ -187,7 +214,7 @@ Dari awal karir saya hingga saat ini, bisa dibilang semua dari koneksi yang saya
 
 Bagaimana membangun relasi?
 - Tingkatkan skill yang kamu miliki
-- Jangan ragu untuk membagikan konten yang kamu miliki, misalnya di LinkedIn
+- Jangan ragu untuk membagikan konten yang kamu miliki ke media sosial, seperti LinkedIn, Twitter, Facebook maupun Threads.
 - Tingkatkan personal brandingmu.
 
 </v-click>
